@@ -1,0 +1,45 @@
+# =========================
+# Archivos de Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+ENV/
+
+# Archivos de configuración de entornos
+*.env
+*.ini
+*.cfg
+
+# =========================
+# Archivos de PyCharm / JetBrains
+# =========================
+.idea/
+*.iml
+
+# =========================
+# Archivos de sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Archivos de compilación / logs
+# =========================
+*.log
+
+# =========================
+# Otros (compresiones, backups)
+# =========================
+*.rar
+*.zip
+*.tar
+*.gz
